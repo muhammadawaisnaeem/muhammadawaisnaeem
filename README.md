@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadawaisnaeem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadawaisnaeem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadawaisnaeem" alt="muhammadawaisnaeem" /></a> </p>
-
 - 🌱 I’m currently learning **Back-end Web Development (MERN Stack)**
 
 - 💬 Ask me about **Bootstrap, Tailwind CSS, React**
